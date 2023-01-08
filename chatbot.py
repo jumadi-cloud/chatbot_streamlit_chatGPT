@@ -132,7 +132,7 @@ Aku adalah asisten virtual **[Kelas Awan Pintar](https://www.youtube.com/@kelasa
 
     with col3:
             st.subheader("01c - Deploy Chatbot Menggunakan Model ChatGPT Dengan Streamlit")
-            st.video('https://www.youtube.com/watch?v=dIx4ccvKduU&list=PLm94WimySTnr_AllzUeBTZR-fdvTsw99l&index=3')
+            st.video('https://www.youtube.com/watch?v=ORSvFsdactI')
 
     st.write("---")
     st.header("Playlist Belajar Streamlit Bahasa Indonesia [Dasar]")
