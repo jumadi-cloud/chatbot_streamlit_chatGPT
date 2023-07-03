@@ -22,7 +22,7 @@ openai.api_key = st.secrets["model"]
 
 def generate_response(prompt):
 	completions = openai.Completion.create(
-		engine = "text-davinci-003", # Untuk menggunakan model 
+		engine = "gpt-3.5-turbo", # Untuk menggunakan model 
 		prompt = prompt,             # Untuk menghasilkan teks 
 		max_tokens = 1024,           # Jumlah maksimum token (kata dan tanda baca)
 		n = 1,                       # Jumlah tanggapan
